@@ -1,10 +1,10 @@
-boolean lastbutton = LOW;
-boolean currentbutton = LOW;
 int input = 0;
 int buzz = 13; // buzzer pin
 int button = 2; // button pin
 int j = 3; // start pin
 int k = 12; // end pin
+boolean lastbutton = LOW;
+boolean currentbutton = LOW;
 
 
 void setup() {
