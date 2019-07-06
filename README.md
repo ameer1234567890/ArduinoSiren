@@ -9,6 +9,9 @@ Original instructable can be found here: https://www.instructables.com/id/How-to
 #### Building an Arduino on a Breadboard
 Instructions to setup ATMEGA328P on a breadboard can be found here: https://www.arduino.cc/en/Main/Standalone
 
+#### Burn a Bootloader on an Arduino
+Instructions to burning a bootloader can be found here: https://www.instructables.com/id/How-To-Burn-a-Bootloader-to-Clone-Arduino-Nano-30/
+
 #### Schematic
 ![Schematic](./ArduinoSiren_schem.svg)
 
