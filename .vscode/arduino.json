@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "ArduinoSiren.ino",
+    "output": ".vscode/build",
+    "port": "COM16"
+}
